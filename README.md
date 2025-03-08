@@ -66,15 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerima-alassani&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerima-alassani&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ### ⚡ Fun Fact  
 I love combining **biology and coding** to create innovative healthcare solutions! 🚀  
 
