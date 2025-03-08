@@ -1,74 +1,47 @@
-<h1 align="center">Hi 👋, I'm YERIMA Alassani</h1>
-<h3 align="center">🚀 UI/UX Designer | Full-Stack Developer | Bioinformatics Enthusiast</h3>
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yerima-alassani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=500&color=F79327&center=true&vCenter=true&width=800&lines=Hey,+I'm+YERIMA+Alassani!+👋;Full-Stack+Developer+|+AI+Enthusiast;Bioinformatics+|+Healthcare+Tech;Let's+Build+Something+Amazing!+🚀" />
+</p>
+
+
+---
+
+## 🌟 About Me  
+🎓 **Background**: IT Systems Engineer | Bioinformatics Enthusiast  
+🔬 **Interests**: AI in Healthcare, Data Science, Medical Data Processing  
+💡 **Passion**: Bridging the gap between **biology & technology** for healthcare innovations  
+
+---
+
+## 🚀 What I'm Working On  
+- 🔭 **Current Projects**: AI & Bioinformatics applications in healthcare  
+- 🌱 **Learning**: Advanced AI, Python frameworks, Machine Learning for medical analysis  
+- 👯 **Looking for Collaborations**: AI in healthcare, Bioinformatics & Data Science projects  
+- 🤝 **Seeking Help With**: Optimizing ML models for medical applications  
+- 💬 **Ask Me About**: Bioinformatics, AI, React, Vue, GSAP  
+
+---
+
+## 📫 Let's Connect  
+<p align="center">
+  <a href="mailto:meliodas.martin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/yerima-alassani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-🔬 Passionate about **Bioinformatics & AI in Healthcare**  
-🎓 Background in **Medical & Biological Analysis** + **IT Systems Engineering**  
-🧠 I love **Machine Learning, Data Science & Software Development**  
-
----
-
-### 🚀 What I'm Up To  
-- 🔭 **Currently working on**: AI & Bioinformatics applications in healthcare  
-- 🌱 **Currently learning**: Advanced AI, Python frameworks, and medical data processing  
-- 👯 **Looking to collaborate on**: AI in healthcare, Data Science & Bioinformatics projects  
-- 🤝 **Looking for help with**: Machine Learning models for medical analysis  
-- 💬 **Ask me about**: Bioinformatics, AI, React, Vue, GSAP  
-
----
-
-### 📫 How to Reach Me  
-📩 **Email**: meliodas.martin@gmail.com  
-🔗 **LinkedIn**: [Your LinkedIn](#)  
-🌐 **Portfolio**: [Your Website](#)  
-
----
-
-### 🛠️ Languages & Tools  
+## 🛠️ Tech Stack  
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,vue,nodejs,php,mysql,mongodb,androidstudio,linux,git,figma,scikit" />
 </p>
 
 ---
 
-### ⚡ Fun Fact  
+## ⚡ Fun Fact  
 I love combining **biology and coding** to create innovative healthcare solutions! 🚀  
 
 ---
 
-💡 *Let's build something amazing together!*  
+🎯 *Let's build the future of healthcare together!*  
