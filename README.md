@@ -40,7 +40,7 @@
 ---
 
 ## ⚡ Fun Fact  
-I love combining **biology and coding** to create innovative healthcare solutions! 🚀  
+💡 *I think I am funny! 😂*
 
 ---
 
